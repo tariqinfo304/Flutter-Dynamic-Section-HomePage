@@ -34,7 +34,10 @@ The following dependencies are used in this project:
 
 ## Screenshots
 
-Include screenshots of the app in action here.
+![Alt text](./images/image1.png")
+![Alt text](./images/image2.png")
+![Alt text](./images/image3.png")
+![Alt text](./images/image4.png")
 
 ## Contributing
 
