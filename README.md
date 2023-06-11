@@ -34,10 +34,14 @@ The following dependencies are used in this project:
 
 ## Screenshots
 
-![Alt text](./images/image1.png)
-![Alt text](./images/image2.png)
-![Alt text](./images/image3.png)
-![Alt text](./images/image4.png)
+- Here is a screenshot showcasing the initial home page of the application.
+  ![Alt text](./images/image1.png)
+- Here is a screenshot showcasing the Create Section Popup.
+  ![Alt text](./images/image2.png)
+
+- Here is a screenshot showcasing the created sections.
+  ![Alt text](./images/image3.png)
+  ![Alt text](./images/image4.png)
 
 ## Contributing
 
