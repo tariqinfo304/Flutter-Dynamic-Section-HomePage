@@ -14,7 +14,7 @@ To run the app, follow these steps:
 
 4. Run the app using the Flutter run command.
 
-## Motivation Notes
+## Motivational Notes
 
 - **Phase-II**
   I will focus on dynamically rendering the divisions of the sections as columns.
