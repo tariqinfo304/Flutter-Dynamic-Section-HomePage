@@ -14,6 +14,15 @@ To run the app, follow these steps:
 
 4. Run the app using the Flutter run command.
 
+## Motivation Notes
+
+- Phase-II
+  I will focus on dynamically rendering the divisions of the sections as columns.
+- Phase-III
+  I plan to implement a dynamic functionality that retrieves data from an API and dynamically updates the layout of the home page screens based on the received response.
+- Phase-IV
+  I plan to implement a feature where each section will have a link that leads to a detail page. This detail page will be created dynamically based on the API response. I will retrieve the description for the detail page from the API and use it to dynamically generate a new view in Flutter to render the detail page.
+
 ## Description
 
 MyApp is a simple Flutter application that allows users to dynamically create sections with custom names, colors, heights, font sizes, and font families. Each section consists of a title and a description. The user can choose a color from a color picker, select the section height and font size using sliders, and choose a font family from a dropdown list.
