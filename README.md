@@ -16,11 +16,11 @@ To run the app, follow these steps:
 
 ## Motivation Notes
 
-- Phase-II
+- **Phase-II**
   I will focus on dynamically rendering the divisions of the sections as columns.
-- Phase-III
+- **Phase-III**
   I plan to implement a dynamic functionality that retrieves data from an API and dynamically updates the layout of the home page screens based on the received response.
-- Phase-IV
+- **Phase-IV**
   I plan to implement a feature where each section will have a link that leads to a detail page. This detail page will be created dynamically based on the API response. I will retrieve the description for the detail page from the API and use it to dynamically generate a new view in Flutter to render the detail page.
 
 ## Description
