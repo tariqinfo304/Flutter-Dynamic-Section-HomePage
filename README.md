@@ -1,4 +1,4 @@
-# MyApp
+# Flutter-Dynamic-Section-HomePage
 
 MyApp is a Flutter project that demonstrates dynamically creating sections with different styles and content.
 
